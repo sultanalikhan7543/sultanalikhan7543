@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sultan%20Ali%20Khan&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20LLM%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://sultanalikhan7543.github.io/Portfolio/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Data+Scientist+%26+ML+Engineer;LLM-Integrated+Systems+Builder;Conversational+AI+Researcher;Financial+ML+Practitioner;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Data+Scientist+%26+ML+Engineer;LLM-Integrated+Systems+Builder;Conversational+AI+Researcher;Financial+ML+Practitioner;Robotics+%26+Reinforcement+Learning;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@ I'm a **Data Scientist & Machine Learning Engineer** from Upper Chitral, Pakista
 
 - 🔬 Currently working on: **Modular context-gathering architectures for reliable multi-domain LLM generation**
 - 🎓 Preparing for: **Graduate research in AI/ML abroad**
-- 💡 Interested in: **Interpretability, applied NLP, computer vision, robotics**
+- 💡 Interested in: **Interpretability, applied NLP, computer vision, robotics, and intelligent systems**
 - 🌐 Portfolio: **[sultanalikhan7543.github.io/Portfolio](https://sultanalikhan7543.github.io/Portfolio/)**
 
 ---
@@ -40,7 +40,7 @@ I'm a **Data Scientist & Machine Learning Engineer** from Upper Chitral, Pakista
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-**AI / ML**
+**AI / ML & Data Science**
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
@@ -49,6 +49,14 @@ I'm a **Data Scientist & Machine Learning Engineer** from Upper Chitral, Pakista
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+</p>
+
+**Robotics & Reinforcement Learning**
+<p>
+<img src="https://img.shields.io/badge/Robotics-FF6F00?style=flat-square&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-1A2C42?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/PPO-FF6F00?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sim2Real-22d3ee?style=flat-square&logo=nvidia&logoColor=white"/>
 </p>
 
 **Web & Platforms**
@@ -77,6 +85,18 @@ I'm a **Data Scientist & Machine Learning Engineer** from Upper Chitral, Pakista
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanalikhan7543&theme=tokyonight&hide_border=true&background=0a0f1e&stroke=22d3ee&ring=a78bfa&fire=f472b6&currStreakLabel=22d3ee" alt="GitHub Streak"/>
 
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sultanalikhan7543/sultanalikhan7543/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sultanalikhan7543/sultanalikhan7543/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/sultanalikhan7543/sultanalikhan7543/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -134,7 +154,7 @@ Privacy-preserving ECG arrhythmia classification under non-IID data distribution
 ### 🤖 [Sim2Real Navigation](https://github.com/sultanalikhan7543/sim2real-navigation)
 Benchmark of recurrent vs. memoryless policies for mobile robot navigation.
 
-`Reinforcement Learning` `PyTorch` `Research`
+`Reinforcement Learning` `PyTorch` `Robotics`
 
 </td>
 </tr>
